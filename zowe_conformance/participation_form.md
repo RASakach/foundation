@@ -8,9 +8,9 @@ By signing below and submitting this form to The Linux Foundation:
 
 1.  The Participant agrees to the Terms and Conditions of the Zowe Conformance Program (the "Program Terms"), available at <https://www.openmainframeproject.org/projects/zowe/conformance/terms-and-conditions>
 2.  The Participant confirms that the products and services identified below as Qualifying Offerings either (a) have passed all of the tests that are marked required below, as described in the Test Evaluation Guide at <https://www.openmainframeproject.org/projects/zowe/conformance/test-evaluation-guide>, and are Qualifying Offerings under the Program Terms; or (b) prior to usage of the Conformance Marks, will pass all of the tests described in the Test Evaluation Guide, and will be Qualifying Offerings under the Program Terms.
-3.  The Participant confirms that it has submitted, or will submit, to The Linux Foundation the results of the tests prior to its first public use of the Conformance Marks associated with the corresponding version of the Zowe Conformance Program.
-4.  The Participant confirms that it will either (a) maintain conformance of the Qualifying Offerings with the Test Evaluation Guide, or (b) cease use of the Conformance Marks if the products or services cease to be Qualifying Offerings.
-5.  The Participant confirms that it will promptly submit an updated Participant Form to The Linux Foundation prior to using the Conformance Marks with Qualifying Offerings not listed here.
+3.  The Participant confirms they have submitted, or will submit, to The Linux Foundation the results of the tests prior to its first public use of the Conformance Marks associated with the corresponding version of the Zowe Conformance Program.
+4.  The Participant confirms they will either (a) maintain conformance of the Qualifying Offerings with the Test Evaluation Guide, or (b) cease use of the Conformance Marks if the products or services cease to be Qualifying Offerings.
+5.  The Participant confirms they will promptly submit an updated Participant Form to The Linux Foundation prior to using the Conformance Marks with Qualifying Offerings not listed here.
 6.  I confirm that I am authorized to make the above statements and to submit this form on behalf of the Participant.
 
 **Participant Information**
@@ -62,7 +62,7 @@ Initial Version and Components of Zowe Conformance Program tests for Conformance
 >
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-- [ ] **Zowe CLI - 2019**
+- [ ] **Zowe CLI - V1 C1**
 
 > Please list any items where your offering does not meet the criteria set forth in the Test Evaluation Guide:
 >
@@ -74,7 +74,7 @@ Initial Version and Components of Zowe Conformance Program tests for Conformance
 >
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-- [ ] **Zowe App Framework - 2019**
+- [ ] **Zowe App Framework - V1 C1**
 
 > Please list any items where your offering does not meet the criteria set forth in the Test Evaluation Guide:
 >
